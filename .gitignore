@@ -1,0 +1,15 @@
+# Virtual Environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Mac system files
+.DS_Store
+
+# Data files (optional)
+data/*.csv
+
+# Matplotlib cache
+.matplotlib/
